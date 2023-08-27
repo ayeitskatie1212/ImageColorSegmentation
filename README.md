@@ -1,5 +1,5 @@
 # Image Color Segmentation
-This program uses kmeans clustering in order to reduce the numbers of colors in an image to produce a cartoon-like rendition of it.
+This program produces cartoon-like renditions of images. It was made in python using Jupyter Notebook, NumPy, skimage, scipy, and matplotlib.
 
 First, an image is passed in along with the number of colors the user would like to limit the output to. For this image, I limited the number of colors to 10.
 
